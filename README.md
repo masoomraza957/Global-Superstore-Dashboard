@@ -44,3 +44,6 @@ This project is an interactive Sales Dashboard built in Microsoft Excel using th
 **Masoom Raza**
 
 Aspiring Data Analyst
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
