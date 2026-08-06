@@ -34,10 +34,12 @@ This project is an interactive Sales Dashboard built in Microsoft Excel using th
 
 ## 📂 Project Files
 
-- Excel Dashboard (.xlsx)
-- Dashboard Report (.pdf)
-- Dashboard Image (.png)
-- PowerPoint Presentation (.pptx)
+## 📂 Project Files
+
+- 📊 [Excel Dashboard](./Global%20Superstore%20Dashboard.xlsx)
+- 📄 [Dashboard Report](./Global%20Superstore%20Dashboard.pdf)
+- 🖼️ [Dashboard Preview Image](./Global%20Superstore%20Dashboard.png)
+- 📽️ [PowerPoint Presentation](./Global%20Superstore%20Dashboard.pptx)
 
 ## 👤 Author
 
