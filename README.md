@@ -1,4 +1,5 @@
 # 📊 Global Superstore Sales Dashboard
+![Global Superstore Dashboard](https://raw.githubusercontent.com/masoomraza957/Global-Superstore-Dashboard/main/Global%20Superstore%20Dashboard.png)
 
 ## 📌 Project Overview
 
